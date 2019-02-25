@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvgPt2", "AvgPt2\AvgPt2.csproj", "{EE24986D-37A3-401F-8F69-088B4A89E88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE24986D-37A3-401F-8F69-088B4A89E88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE24986D-37A3-401F-8F69-088B4A89E88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE24986D-37A3-401F-8F69-088B4A89E88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE24986D-37A3-401F-8F69-088B4A89E88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EE6350-7196-4111-862C-E438C1B18114}
+	EndGlobalSection
+EndGlobal
